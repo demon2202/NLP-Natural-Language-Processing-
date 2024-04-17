@@ -191,4 +191,3 @@ NLP has found its way into various applications:
 ---
 
 I hope this tutorial provides you with a solid foundation in NLP and inspires you to explore this exciting field further!
-FOR MORE INFORMATION VISIT geeksforgeeks(#https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/?ref=ghm)
