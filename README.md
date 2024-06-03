@@ -12,20 +12,9 @@ Welcome to our comprehensive NLP tutorial! Whether you're just starting out or l
 2. [The Journey of NLP]
 3. [Key Components of NLP]
 4. [Real-World Applications]
-5. [Steps in NLP]
-6. [Useful Libraries for NLP]
-7. [Traditional Methods in NLP]
-8. [Text Preparation]
-9. [Text Representation]
-10. [Advanced Text Analysis]
-11. [Deep Learning in NLP]
-12. [Transformers and Transfer Learning]
-13. [Information Extraction]
-14. [Generating Text and Dialogue]
-15. [Language Translation]
-16. [Voice Interaction]
-17. [Statistical Approaches]
-18. [FAQs]
+5. [FAQs]
+6. [Example of NLP using Python]
+
 
 ---
 
